@@ -100,10 +100,10 @@ nav ul li a:hover::after{
     border: 5px solid #fff;
     display: flex;
     align-items: center;
-    font-sixe: 20px;
+    font-size: 20px;
 }
 .tex-box a span{
-    font-size: 30px;
+    font-size: 40px;
     line-height: 15px;
     margin-left: 5px;
     margin-top: -5px;
@@ -117,4 +117,5 @@ nav ul li a:hover::after{
     width: 25px;
     display: block;
     margin-top: 25px 5x;
+    
 }
