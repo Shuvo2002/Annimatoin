@@ -100,7 +100,7 @@ nav ul li a:hover::after{
     border: 5px solid #fff;
     display: flex;
     align-items: center;
-    font-size: 20px;
+    font-size: 40px;
 }
 .tex-box a span{
     font-size: 40px;
